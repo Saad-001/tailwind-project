@@ -1,7 +1,7 @@
 import React from 'react';
 import { Fragment } from 'react'
-import { Disclosure, Menu, Transition } from '@headlessui/react';
-import { BellIcon, MenuIcon, XIcon } from '@heroicons/react/outline';
+import { Disclosure } from '@headlessui/react';
+import { MenuIcon, XIcon } from '@heroicons/react/outline';
 import logo from '../../images/pixabay-logo.png';
 import logoText from '../../images/pixabay-text.png';
 
